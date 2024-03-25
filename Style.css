@@ -27,6 +27,8 @@ img {
     margin: 0 auto;
     margin-top: 20px; /* Atur jarak dari atas */
     margin-bottom: 20px; /* Atur jarak dari bawah */
+    width: 40%; /* Mengatur lebar gambar menjadi 100% dari lebar parent element */
+    height: auto; /* Menjaga rasio aspek gambar */
 }
 
 button {
