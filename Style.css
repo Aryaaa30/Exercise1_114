@@ -43,6 +43,7 @@ button {
 body {
     border: 2px solid black;
     padding: 20px; /* Opsional: menambahkan padding agar konten tidak terlalu dekat dengan border */
+    background-color: #ffe0b2; /* Warna kulit */
 }
 
 .container {
