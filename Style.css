@@ -42,9 +42,11 @@ button {
 }
 
 body {
-    border: 2px solid black;
+    border: 2px solid rgb(245, 243, 243);
     padding: 20px; /* Opsional: menambahkan padding agar konten tidak terlalu dekat dengan border */
-    background-color: #ffe0b2; /* Warna kulit */
+    background-image: url('ling.jpg'); /* Ganti 'nama_file_gambar.jpg' dengan nama file gambar Anda */
+    background-size: cover; /* Menyesuaikan ukuran gambar agar sesuai dengan lebar dan tinggi halaman */
+    background-attachment: fixed; /* Membuat latar belakang tetap pada posisinya saat digulir */   
 }
 
 .container {
