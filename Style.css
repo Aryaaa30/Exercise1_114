@@ -49,6 +49,7 @@ body {
 .container {
     border: 2px solid black;
     padding: 20px;
+    background-color: white; /* Warna latar belakang elemen main */
 }
 
 p, ol, table {
